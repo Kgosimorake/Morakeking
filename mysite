@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<br>
+<hr>
+<br>
+<hr>
+<h1>KGOSIETSILE MORAKE </h1>
+<p>KGOSIETSILE MORAKE is a 27 year old male and his ambition to coding is to bring ideas to life
+to increase interests in businesses by creating apps and websites to increase they're marketshare  </p>
+<br>
+<hr>
+</body> 
+<img src="/storage/emulated/0/piclogo/Screenshot_20240407-144729.png"height="100" width="120">
+</html>
+
